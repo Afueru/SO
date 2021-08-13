@@ -1,2 +1,2 @@
-# SO
-Sistemas Operacionais
+# EP - Sistemas Operacionais
+Escalonador de processos em JAVA
